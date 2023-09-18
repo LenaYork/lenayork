@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Helen 👋 </h1>
+<h1 align="center"> Helen </h1>
+<h2 align="center">Frontend Developer | ReactJS | Mentor</h2>
 
-- [x] Frontend Developer
+A frontend developer skilled in JavaScript, ReactJS, HTML5, CSS3, SCSS, Git, and Agile Methodology. My psychological background has helped me maintain healthy relationships with others and keep a work-life balance. Meanwhile, my pedagogical background allows me to mentor interns and juniors, assisting them on their journey.
 
 ## Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
